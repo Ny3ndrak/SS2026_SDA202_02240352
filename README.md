@@ -14,7 +14,7 @@ The goal is to design a URL shortening service similar to TinyURL. The main chal
 - **Availability:** The system must be **highly available** and **fault-tolerant**.
 - **Data Assumption:** URLs are treated as **permanent**, with **no updates or deletes**.
 
-## 2. Analysis of the Author's Proposed Solution
+## 2. Analysis of the Proposed Solution
 
 ### API Design
 The service is based on a simple REST-style API:
